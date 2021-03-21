@@ -16,4 +16,20 @@
     
     e. CSS Only Tooltips (attributed to all photos in the webpage)
 
-5. Save your work to your own github folder and pass in a link. 
+5. You may choose to use any of the following videos to help - but feel free to use anything else that you can find. 
+
+CSS Only Tooltips
+https://codepen.io/ananyaneogi/pen/GRgojdz
+Responsive Nav Bar
+https://www.youtube.com/watch?v=oLgtucwjVII
+Modal
+https://www.youtube.com/watch?v=OkJYtw1mPeU
+https://www.youtube.com/watch?v=8AUtM5lqUZM
+Marquee
+https://www.youtube.com/watch?v=sVZX0XvEBhk
+carousel
+https://www.youtube.com/watch?v=Cbhp2NL_p1Y
+
+7. Bootstrap should not be used in thie assignment. If you do not follow this guideline your work will not count towards this assignment. 
+
+6. Save your work to your own github folder and pass in a link. 
